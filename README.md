@@ -44,3 +44,10 @@ periodic retraining with new data and monitoring for changes in dataset distribu
 As a results, this project represents a comprehensive approach to predictive modeling, from 
 data cleansing to distribution. The combination of careful analysis, model selection and user-friendly deployment positions the developed model as a valuable tool for making informed 
 decisions in the context of direct marketing campaigns for term deposit subscriptions.
+
+Contributers
+
+- Ayşe Almacı
+- Melisa Yüncü
+- Neslihan Pelin Metin
+- Rabiye Nur Balcı
